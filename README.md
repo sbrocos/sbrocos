@@ -5,6 +5,7 @@ Senior Ruby on Rails Engineer with 10+ years of backend experience in fintech, S
 ### What I do
 
 - **Backend development** — Ruby, Rails, PostgreSQL, Redis, Sidekiq
+- - **Modern Rails frontend** — Hotwire, Turbo Streams, Stimulus
 - **Reliability & ownership** — production issue investigation, refactoring legacy systems
 - **AI-assisted development** — currently completing a Master's in AI-assisted Development (BIG School)
 
