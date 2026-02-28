@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm Sergio 👋
 
-<!--
-**sbrocos/sbrocos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Ruby on Rails Engineer with 10+ years of backend experience in fintech, SaaS, and high-traffic environments. Based in Barcelona.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend development** — Ruby, Rails, PostgreSQL, Redis, Sidekiq
+- **Reliability & ownership** — production issue investigation, refactoring legacy systems
+- **AI-assisted development** — currently completing a Master's in AI-assisted Development (BIG School)
+
+### Projects
+
+- [GRAIN](https://github.com/sbrocos/GRAIN) — Audio saturation plugin (VST3/AU) built with C++/JUCE using AI-assisted development
+- [jikanrb](https://github.com/sbrocos/jikanrb) — Ruby wrapper for the Jikan API
+
+### Open to opportunities
+
+Remote worldwide or hybrid in Barcelona.
+
+[LinkedIn](https://linkedin.com/in/sbrocos)
